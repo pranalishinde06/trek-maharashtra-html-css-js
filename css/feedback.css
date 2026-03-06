@@ -24,7 +24,7 @@ body{
 /* LEFT SIDE */
 .left{
     flex:1;
-    background:#176d73;
+    background:gray;
     color:white;
     padding:40px;
 }
