@@ -194,7 +194,6 @@ function filterTreks() {
 }
 
 // AUTO LOAD WHEN PAGE OPENS
-
 document.addEventListener("DOMContentLoaded", function(){
     addDefaultTreks();
     loadFavorites();
