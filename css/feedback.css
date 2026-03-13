@@ -164,7 +164,7 @@ display:block;
 /* LEFT SIDE */
 .left{
     flex:1;
-    background: #0f4c5c;
+    background: #a0a9ba;
     color:white;
     padding:40px;
 }
@@ -175,8 +175,9 @@ display:block;
 }
 
 .left h1 span{
-    color:#f5b942;
+    color:#1bb798;
 }
+
 
 .left p{
     font-size:14px;
