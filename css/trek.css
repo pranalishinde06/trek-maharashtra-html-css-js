@@ -310,6 +310,7 @@ cursor: pointer;
     background:#0f4d3f;
     color:white;
     border:none;
+    text-decoration: none;
     padding:12px 35px;
     font-size:16px;
     border-radius:6px;
