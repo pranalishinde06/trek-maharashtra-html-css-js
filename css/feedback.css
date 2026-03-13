@@ -89,6 +89,7 @@ body{
     font-size:18px;
 }
 
+
 .nav-links-container{
     flex-direction: column;
     align-items:center;
@@ -99,11 +100,28 @@ body{
     margin-top:10px;
 }
 
+
 .main-container{
     width:100%;
     height:auto;
 }
 
+}
+
+/* HAMBURGER BUTTON */
+.menu-toggle{
+display:none;
+font-size:28px;
+cursor:pointer;
+color:white;
+}
+
+/* MOBILE VIEW */
+@media screen and (max-width:768px){
+
+.menu-toggle{
+display:block;
+}
 }
 
 /* ================= TABLET (601px – 992px) ================= */
