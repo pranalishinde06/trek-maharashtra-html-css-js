@@ -147,15 +147,12 @@ display:flex;
 
 .container{
 width:90%;
-height:600px;
+height: 600px;;
 display:flex;
-align-items:center;
-justify-content:center;
-transition:0.3s;
-padding-top:100px;
-padding-bottom:50px;
-margin:auto;
-flex:1;
+justify-content: center;
+margin-left: 60px;
+margin-top: 60px;
+padding-top: 20px;
 }
 button:hover{
 background:#656968;
@@ -271,7 +268,7 @@ transform:scale(1.03);
 }
 .welcome-card{
 width: 400px;
-height: 510px;
+height: 580px;
 background:#53886f;
 color:white;
 padding:40px;
@@ -280,7 +277,6 @@ text-align:center;
 box-shadow:0 5px 20px rgba(0,0,0,0.2);
 }
 
-
 .welcome-card h2{
 margin-bottom:10px;
 }
@@ -288,6 +284,7 @@ margin-bottom:10px;
 .welcome-card p{
 margin-bottom:15px;
 }
+
 
 .login-btn{
 background:rgb(246, 251, 243);
