@@ -20,9 +20,9 @@ Built using <b>HTML, CSS and JavaScript</b>.
 ---
 
 ## 📸 Website Preview
+## 📸 Website Preview
 
-<img src="./images/homepage-screenshot.png" width="900">
-
+<img src="./images/homepage.png" width="900">
 ---
 
 ## 🏔️ Popular Treks
@@ -31,8 +31,7 @@ Built using <b>HTML, CSS and JavaScript</b>.
 |-----|------|
 | Rajgad | <img src="./images/Rajgad%20Fort.jpeg" width="150"> |
 |
-| Harishchandragad | <img src="./images/harishchandragad.jpg" width="150"> |
-| 
+
 
 ---
 
