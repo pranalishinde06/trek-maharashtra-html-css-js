@@ -1,7 +1,9 @@
 # 🏔️ Trek Maharashtra
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=150&section=header&text=Trek%20Maharashtra&fontSize=40&fontColor=ffffff"/>
+## 📸 Website Preview
+
+<img src="./images/home/" width="900">
 </p>
 
 <p align="center">
